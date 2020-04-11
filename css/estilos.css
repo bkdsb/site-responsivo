@@ -219,12 +219,12 @@ footer {
     NAVEGAÇÃO 
     */
 
-    nav {
+    .nav {
         flex-direction: row;
         justify-content: space-around;
     }
 
-    nav ul {
+    .nav ul {
         flex-direction: row;
         width: 70%;
     }
