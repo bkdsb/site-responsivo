@@ -240,6 +240,7 @@ footer {
     /* SOBRE */
 
     #Sobre {
+        align-items: center;
         height: 250px;
         height: 30vh;
         justify-content: center;
